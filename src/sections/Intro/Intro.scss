@@ -1,0 +1,13 @@
+@import "../../helpers/style-helpers";
+
+.intro {
+  height: 820px;
+  background-color: $baby-pink;
+
+  &__scene {
+    //background-color: $baby-pink;
+    height: 810px;
+    width: 1440px;
+    margin: auto;
+  }
+}
